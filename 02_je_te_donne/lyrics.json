@@ -1,0 +1,3147 @@
+{
+    "time_offset": 2,
+    "text_thickness": 0.02,
+    "word_spacing": 8,
+    "letter_spacing": 2,
+    "pixel_scale": 0.05,
+    "side_offsets": [
+        -70,
+        70,
+        0
+    ],
+    "line_offsets": [
+        60,
+        30,
+        75
+    ],
+    "side_angles": [
+        -7,
+        7,
+        0
+    ],
+    "fonts": {
+        "goldman": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZéà',",
+        "jones": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ,'"
+    },
+    "lyrics": [
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "I",
+                    "time": 21
+                },
+                {
+                    "word": "can",
+                    "time": 21.5
+                },
+                {
+                    "word": "give",
+                    "time": 22
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "you",
+                    "time": 22.5
+                },
+                {
+                    "word": "a",
+                    "time": 23
+                },
+                {
+                    "word": "voice,",
+                    "time": 23.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "bred",
+                    "time": 25
+                },
+                {
+                    "word": "with",
+                    "time": 25.5
+                },
+                {
+                    "word": "rhythm",
+                    "time": 26
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "and",
+                    "time": 27
+                },
+                {
+                    "word": "soul",
+                    "time": 28
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "The",
+                    "time": 29.5
+                },
+                {
+                    "word": "heart",
+                    "time": 30
+                },
+                {
+                    "word": "of",
+                    "time": 30.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "a",
+                    "time": 31
+                },
+                {
+                    "word": "Welsh",
+                    "time": 31.5
+                },
+                {
+                    "word": "boy",
+                    "time": 33
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "who's",
+                    "time": 33.5
+                },
+                {
+                    "word": "lost",
+                    "time": 34
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "his",
+                    "time": 35
+                },
+                {
+                    "word": "home",
+                    "time": 36
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "Put",
+                    "time": 38
+                },
+                {
+                    "word": "it",
+                    "time": 38.5
+                },
+                {
+                    "word": "in",
+                    "time": 39
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "harmony",
+                    "time": 39.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "let",
+                    "time": 42
+                },
+                {
+                    "word": "the",
+                    "time": 42.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "words",
+                    "time": 43
+                },
+                {
+                    "word": "ring",
+                    "time": 44
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "Carry",
+                    "time": 46
+                },
+                {
+                    "word": "your",
+                    "time": 47
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "thoughts",
+                    "time": 47.4
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "in",
+                    "time": 48.5
+                },
+                {
+                    "word": "the",
+                    "time": 49
+                },
+                {
+                    "word": "songs",
+                    "time": 49.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "we",
+                    "time": 51
+                },
+                {
+                    "word": "sing",
+                    "time": 52
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 53
+                },
+                {
+                    "word": "te",
+                    "time": 53.5
+                },
+                {
+                    "word": "donne",
+                    "time": 54
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 55
+                },
+                {
+                    "word": "notes,",
+                    "time": 55.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 57
+                },
+                {
+                    "word": "te",
+                    "time": 57.5
+                },
+                {
+                    "word": "donne",
+                    "time": 58
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 59
+                },
+                {
+                    "word": "mots",
+                    "time": 59.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Quand",
+                    "time": 61
+                },
+                {
+                    "word": "ta",
+                    "time": 61.5
+                },
+                {
+                    "word": "voix",
+                    "time": 62
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "les",
+                    "time": 62.5
+                },
+                {
+                    "word": "emporte",
+                    "time": 63
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "à",
+                    "time": 65
+                },
+                {
+                    "word": "ton",
+                    "time": 65.5
+                },
+                {
+                    "word": "propre",
+                    "time": 66
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "tempo",
+                    "time": 67
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Une",
+                    "time": 69.5
+                },
+                {
+                    "word": "épaule",
+                    "time": 70
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "fragile",
+                    "time": 71.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "et",
+                    "time": 73
+                },
+                {
+                    "word": "solide",
+                    "time": 73.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "à",
+                    "time": 74.5
+                },
+                {
+                    "word": "la",
+                    "time": 75
+                },
+                {
+                    "word": "fois",
+                    "time": 75.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Ce",
+                    "time": 77.5
+                },
+                {
+                    "word": "que",
+                    "time": 78
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "j'imagine",
+                    "time": 78.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "et",
+                    "time": 80.5
+                },
+                {
+                    "word": "ce",
+                    "time": 81
+                },
+                {
+                    "word": "que",
+                    "time": 81.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 82.5
+                },
+                {
+                    "word": "crois",
+                    "time": 83.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 90.5
+                },
+                {
+                    "word": "te",
+                    "time": 91
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "donne",
+                    "time": 91.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "toutes",
+                    "time": 92.5
+                },
+                {
+                    "word": "mes",
+                    "time": 94
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "différences",
+                    "time": 94.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Tous",
+                    "time": 98.5
+                },
+                {
+                    "word": "ces",
+                    "time": 99
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "défauts",
+                    "time": 99.5
+                },
+                {
+                    "word": "qui",
+                    "time": 101
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "sont",
+                    "time": 101.5
+                },
+                {
+                    "word": "autant",
+                    "time": 102
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "de",
+                    "time": 103
+                },
+                {
+                    "word": "chances",
+                    "time": 104
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "On",
+                    "time": 106.5
+                },
+                {
+                    "word": "sera",
+                    "time": 107
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "jamais",
+                    "time": 107.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "des",
+                    "time": 108.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "standards,",
+                    "time": 109
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Des",
+                    "time": 111
+                },
+                {
+                    "word": "gens",
+                    "time": 111.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "bien",
+                    "time": 112
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "comme",
+                    "time": 112.5
+                },
+                {
+                    "word": "il",
+                    "time": 113
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "faut",
+                    "time": 114
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 121
+                },
+                {
+                    "word": "te",
+                    "time": 121.5
+                },
+                {
+                    "word": "donne",
+                    "time": 122
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ce",
+                    "time": 123
+                },
+                {
+                    "word": "que",
+                    "time": 123.5
+                },
+                {
+                    "word": "j'ai,",
+                    "time": 124.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ce",
+                    "time": 125
+                },
+                {
+                    "word": "que",
+                    "time": 125.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 126.5
+                },
+                {
+                    "word": "vaux",
+                    "time": 127.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "I",
+                    "time": 129
+                },
+                {
+                    "word": "can",
+                    "time": 129.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "give",
+                    "time": 130
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "you",
+                    "time": 130.5
+                },
+                {
+                    "word": "the",
+                    "time": 131
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "force",
+                    "time": 131.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "Of",
+                    "time": 132.5
+                },
+                {
+                    "word": "my",
+                    "time": 133
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "ancestral",
+                    "time": 134
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "pride",
+                    "time": 136
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "The",
+                    "time": 137.5
+                },
+                {
+                    "word": "will",
+                    "time": 138
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "to",
+                    "time": 138.5
+                },
+                {
+                    "word": "go",
+                    "time": 139
+                },
+                {
+                    "word": "on",
+                    "time": 139.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "when",
+                    "time": 140.5
+                },
+                {
+                    "word": "I'm",
+                    "time": 141
+                },
+                {
+                    "word": "hurt",
+                    "time": 142
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "deep",
+                    "time": 142.5
+                },
+                {
+                    "word": "inside",
+                    "time": 143
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "Whatever",
+                    "time": 145.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "the",
+                    "time": 147
+                },
+                {
+                    "word": "feeling,",
+                    "time": 147.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "whatever",
+                    "time": 149
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "the",
+                    "time": 151
+                },
+                {
+                    "word": "way",
+                    "time": 152
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "It",
+                    "time": 153.5
+                },
+                {
+                    "word": "helps",
+                    "time": 154
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "me",
+                    "time": 154.5
+                },
+                {
+                    "word": "go",
+                    "time": 155
+                },
+                {
+                    "word": "on",
+                    "time": 155.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "from",
+                    "time": 156.5
+                },
+                {
+                    "word": "day",
+                    "time": 157.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "to",
+                    "time": 158.5
+                },
+                {
+                    "word": "day",
+                    "time": 159.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Oh,",
+                    "time": 160.5
+                },
+                {
+                    "word": "je",
+                    "time": 161
+                },
+                {
+                    "word": "te",
+                    "time": 161.5
+                },
+                {
+                    "word": "donne",
+                    "time": 162
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "nos",
+                    "time": 163
+                },
+                {
+                    "word": "doutes",
+                    "time": 163.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "et",
+                    "time": 164.5
+                },
+                {
+                    "word": "notre",
+                    "time": 165
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "indicible",
+                    "time": 165.5
+                },
+                {
+                    "word": "espoir",
+                    "time": 167
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Les",
+                    "time": 169
+                },
+                {
+                    "word": "questions",
+                    "time": 169.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "que",
+                    "time": 170.5
+                },
+                {
+                    "word": "les",
+                    "time": 171
+                },
+                {
+                    "word": "routes",
+                    "time": 171.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ont",
+                    "time": 172
+                },
+                {
+                    "word": "laissé",
+                    "time": 173.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "dans",
+                    "time": 174.5
+                },
+                {
+                    "word": "l'histoire",
+                    "time": 175
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Nos",
+                    "time": 177.5
+                },
+                {
+                    "word": "filles",
+                    "time": 178
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "sont",
+                    "time": 179
+                },
+                {
+                    "word": "brunes",
+                    "time": 179.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "et",
+                    "time": 181
+                },
+                {
+                    "word": "l'on",
+                    "time": 181.5
+                },
+                {
+                    "word": "parle",
+                    "time": 182
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "un",
+                    "time": 182.5
+                },
+                {
+                    "word": "peu",
+                    "time": 183.5
+                },
+                {
+                    "word": "fort",
+                    "time": 184
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Et",
+                    "time": 185.5
+                },
+                {
+                    "word": "l'humour",
+                    "time": 186
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "et",
+                    "time": 187
+                },
+                {
+                    "word": "l'amour",
+                    "time": 187.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "sont",
+                    "time": 189
+                },
+                {
+                    "word": "nos",
+                    "time": 189.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "trésors",
+                    "time": 190.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 198.5
+                },
+                {
+                    "word": "te",
+                    "time": 199
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "donne",
+                    "time": 199.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "toutes",
+                    "time": 200.5
+                },
+                {
+                    "word": "mes",
+                    "time": 202
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "différences",
+                    "time": 202.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Tous",
+                    "time": 206.5
+                },
+                {
+                    "word": "ces",
+                    "time": 207
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "défauts",
+                    "time": 207.5
+                },
+                {
+                    "word": "qui",
+                    "time": 209
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "sont",
+                    "time": 209.5
+                },
+                {
+                    "word": "autant",
+                    "time": 210
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "de",
+                    "time": 211
+                },
+                {
+                    "word": "chances",
+                    "time": 212
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "On",
+                    "time": 214.5
+                },
+                {
+                    "word": "sera",
+                    "time": 215
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "jamais",
+                    "time": 215.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "des",
+                    "time": 216.5
+                },
+                {
+                    "word": "standards,",
+                    "time": 217
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Des",
+                    "time": 219
+                },
+                {
+                    "word": "gens",
+                    "time": 219.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "bien",
+                    "time": 220
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "comme",
+                    "time": 220.5
+                },
+                {
+                    "word": "il",
+                    "time": 221
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "faut",
+                    "time": 222
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 229
+                },
+                {
+                    "word": "te",
+                    "time": 229.5
+                },
+                {
+                    "word": "donne",
+                    "time": 230
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ce",
+                    "time": 231
+                },
+                {
+                    "word": "que",
+                    "time": 231.5
+                },
+                {
+                    "word": "j'ai,",
+                    "time": 232.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ce",
+                    "time": 233
+                },
+                {
+                    "word": "que",
+                    "time": 233.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 234.5
+                },
+                {
+                    "word": "vaux",
+                    "time": 235.5
+                }
+            ]
+        },
+        {
+            "line": 2,
+            "side": 2,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 307
+                },
+                {
+                    "word": "te",
+                    "time": 307.5
+                },
+                {
+                    "word": "donne,",
+                    "time": 308
+                }
+            ]
+        },
+        {
+            "line": 2,
+            "side": 2,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "donne,",
+                    "time": 309.5
+                },
+                {
+                    "word": "donne,",
+                    "time": 311
+                }
+            ]
+        },
+        {
+            "line": 2,
+            "side": 2,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ce",
+                    "time": 314
+                },
+                {
+                    "word": "que",
+                    "time": 314.5
+                },
+                {
+                    "word": "je",
+                    "time": 315
+                },
+                {
+                    "word": "suis",
+                    "time": 316
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "I",
+                    "time": 323
+                },
+                {
+                    "word": "can",
+                    "time": 323.5
+                },
+                {
+                    "word": "give",
+                    "time": 324
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "you",
+                    "time": 324.5
+                },
+                {
+                    "word": "my",
+                    "time": 325
+                },
+                {
+                    "word": "voice,",
+                    "time": 326
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "bred",
+                    "time": 327
+                },
+                {
+                    "word": "with",
+                    "time": 327.5
+                },
+                {
+                    "word": "rhythm",
+                    "time": 328
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "and",
+                    "time": 329
+                },
+                {
+                    "word": "soul",
+                    "time": 330
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 331.5
+                },
+                {
+                    "word": "te",
+                    "time": 332
+                },
+                {
+                    "word": "donne",
+                    "time": 332.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 333.5
+                },
+                {
+                    "word": "notes,",
+                    "time": 334
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 335
+                },
+                {
+                    "word": "te",
+                    "time": 335.5
+                },
+                {
+                    "word": "donne",
+                    "time": 336
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ma",
+                    "time": 337
+                },
+                {
+                    "word": "voix",
+                    "time": 337.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "The",
+                    "time": 339.5
+                },
+                {
+                    "word": "songs",
+                    "time": 340
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "that",
+                    "time": 341
+                },
+                {
+                    "word": "I",
+                    "time": 341.5
+                },
+                {
+                    "word": "love",
+                    "time": 342
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "and",
+                    "time": 343
+                },
+                {
+                    "word": "the",
+                    "time": 343.5
+                },
+                {
+                    "word": "stories",
+                    "time": 344
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "I've",
+                    "time": 345
+                },
+                {
+                    "word": "told",
+                    "time": 345.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Ce",
+                    "time": 347.5
+                },
+                {
+                    "word": "que",
+                    "time": 348
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "j'imagine",
+                    "time": 348.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "et",
+                    "time": 350.5
+                },
+                {
+                    "word": "ce",
+                    "time": 351
+                },
+                {
+                    "word": "que",
+                    "time": 351.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 352.5
+                },
+                {
+                    "word": "crois",
+                    "time": 353.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "I",
+                    "time": 355
+                },
+                {
+                    "word": "can",
+                    "time": 355.5
+                },
+                {
+                    "word": "make",
+                    "time": 356
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "you",
+                    "time": 356.5
+                },
+                {
+                    "word": "feel",
+                    "time": 357
+                },
+                {
+                    "word": "good",
+                    "time": 358
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "even",
+                    "time": 359
+                },
+                {
+                    "word": "when",
+                    "time": 360
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "I'm",
+                    "time": 360.5
+                },
+                {
+                    "word": "down",
+                    "time": 361.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Les",
+                    "time": 363.5
+                },
+                {
+                    "word": "raisons",
+                    "time": 364
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "qui",
+                    "time": 365
+                },
+                {
+                    "word": "me",
+                    "time": 365.5
+                },
+                {
+                    "word": "portent",
+                    "time": 366
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "et",
+                    "time": 367
+                },
+                {
+                    "word": "ce",
+                    "time": 367.5
+                },
+                {
+                    "word": "stupide",
+                    "time": 368
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "espoir",
+                    "time": 369.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "My",
+                    "time": 371.5
+                },
+                {
+                    "word": "force",
+                    "time": 372
+                },
+                {
+                    "word": "is",
+                    "time": 373
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "a",
+                    "time": 373.5
+                },
+                {
+                    "word": "platform",
+                    "time": 374
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "that",
+                    "time": 375.5
+                },
+                {
+                    "word": "you",
+                    "time": 376
+                },
+                {
+                    "word": "can",
+                    "time": 376.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "jones",
+            "text": [
+                {
+                    "word": "climb",
+                    "time": 377
+                },
+                {
+                    "word": "on",
+                    "time": 378
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Une",
+                    "time": 379
+                },
+                {
+                    "word": "épaule",
+                    "time": 379.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "fragile",
+                    "time": 381
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "et",
+                    "time": 382.5
+                },
+                {
+                    "word": "forte",
+                    "time": 383
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "à",
+                    "time": 383.5
+                },
+                {
+                    "word": "la",
+                    "time": 384.5
+                },
+                {
+                    "word": "fois",
+                    "time": 385.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 387
+                },
+                {
+                    "word": "te",
+                    "time": 387.5
+                },
+                {
+                    "word": "donne,",
+                    "time": 388
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Ouh,",
+                    "time": 393.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 395
+                },
+                {
+                    "word": "te",
+                    "time": 395.5
+                },
+                {
+                    "word": "donne",
+                    "time": 396
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Tout",
+                    "time": 401.5
+                },
+                {
+                    "word": "ce",
+                    "time": 402.5
+                },
+                {
+                    "word": "que",
+                    "time": 403
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 403.5
+                },
+                {
+                    "word": "vaux,",
+                    "time": 404
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ce",
+                    "time": 405
+                },
+                {
+                    "word": "que",
+                    "time": 405.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 406
+                },
+                {
+                    "word": "suis,",
+                    "time": 406.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 407.5
+                },
+                {
+                    "word": "dons,",
+                    "time": 408
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 408.5
+                },
+                {
+                    "word": "défauts",
+                    "time": 409
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Mes",
+                    "time": 411.5
+                },
+                {
+                    "word": "plus",
+                    "time": 412
+                },
+                {
+                    "word": "belles",
+                    "time": 412.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "chances,",
+                    "time": 413.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 415
+                },
+                {
+                    "word": "différences",
+                    "time": 415.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 419
+                },
+                {
+                    "word": "te",
+                    "time": 419.5
+                },
+                {
+                    "word": "donne,",
+                    "time": 420
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Ouh,",
+                    "time": 425.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 427
+                },
+                {
+                    "word": "te",
+                    "time": 427.5
+                },
+                {
+                    "word": "donne",
+                    "time": 428
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Tout",
+                    "time": 433.5
+                },
+                {
+                    "word": "ce",
+                    "time": 434.5
+                },
+                {
+                    "word": "que",
+                    "time": 435
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 435.5
+                },
+                {
+                    "word": "vaux,",
+                    "time": 436
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ce",
+                    "time": 437
+                },
+                {
+                    "word": "que",
+                    "time": 437.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 438
+                },
+                {
+                    "word": "suis,",
+                    "time": 438.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 439.5
+                },
+                {
+                    "word": "dons,",
+                    "time": 440
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 440.5
+                },
+                {
+                    "word": "défauts",
+                    "time": 441
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Mes",
+                    "time": 443.5
+                },
+                {
+                    "word": "plus",
+                    "time": 444
+                },
+                {
+                    "word": "belles",
+                    "time": 444.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "chances,",
+                    "time": 445.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 447
+                },
+                {
+                    "word": "différences",
+                    "time": 447.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 451
+                },
+                {
+                    "word": "te",
+                    "time": 451.5
+                },
+                {
+                    "word": "donne,",
+                    "time": 452
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Ouh,",
+                    "time": 457.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 459
+                },
+                {
+                    "word": "te",
+                    "time": 459.5
+                },
+                {
+                    "word": "donne",
+                    "time": 460
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Tout",
+                    "time": 465.5
+                },
+                {
+                    "word": "ce",
+                    "time": 466.5
+                },
+                {
+                    "word": "que",
+                    "time": 467
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 467.5
+                },
+                {
+                    "word": "vaux,",
+                    "time": 468
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ce",
+                    "time": 469
+                },
+                {
+                    "word": "que",
+                    "time": 469.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 470
+                },
+                {
+                    "word": "suis,",
+                    "time": 470.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 471.5
+                },
+                {
+                    "word": "dons,",
+                    "time": 472
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 472.5
+                },
+                {
+                    "word": "défauts",
+                    "time": 473
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Mes",
+                    "time": 475.5
+                },
+                {
+                    "word": "plus",
+                    "time": 476
+                },
+                {
+                    "word": "belles",
+                    "time": 476.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "chances,",
+                    "time": 477.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 479
+                },
+                {
+                    "word": "différences",
+                    "time": 479.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 483
+                },
+                {
+                    "word": "te",
+                    "time": 483.5
+                },
+                {
+                    "word": "donne,",
+                    "time": 484
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Ouh,",
+                    "time": 489.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 491
+                },
+                {
+                    "word": "te",
+                    "time": 491.5
+                },
+                {
+                    "word": "donne",
+                    "time": 492
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Tout",
+                    "time": 497.5
+                },
+                {
+                    "word": "ce",
+                    "time": 498.5
+                },
+                {
+                    "word": "que",
+                    "time": 499
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 499.5
+                },
+                {
+                    "word": "vaux,",
+                    "time": 500
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ce",
+                    "time": 501
+                },
+                {
+                    "word": "que",
+                    "time": 501.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 502
+                },
+                {
+                    "word": "suis,",
+                    "time": 502.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 503.5
+                },
+                {
+                    "word": "dons,",
+                    "time": 504
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 504.5
+                },
+                {
+                    "word": "défauts",
+                    "time": 505
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Mes",
+                    "time": 507.5
+                },
+                {
+                    "word": "plus",
+                    "time": 508
+                },
+                {
+                    "word": "belles",
+                    "time": 508.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "chances,",
+                    "time": 509.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 511
+                },
+                {
+                    "word": "différences",
+                    "time": 511.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Je",
+                    "time": 515
+                },
+                {
+                    "word": "te",
+                    "time": 515.5
+                },
+                {
+                    "word": "donne,",
+                    "time": 516
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Ouh,",
+                    "time": 521.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 523
+                },
+                {
+                    "word": "te",
+                    "time": 523.5
+                },
+                {
+                    "word": "donne",
+                    "time": 524
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Tout",
+                    "time": 529.5
+                },
+                {
+                    "word": "ce",
+                    "time": 530.5
+                },
+                {
+                    "word": "que",
+                    "time": 531
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 531.5
+                },
+                {
+                    "word": "vaux,",
+                    "time": 532
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "ce",
+                    "time": 533
+                },
+                {
+                    "word": "que",
+                    "time": 533.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "je",
+                    "time": 534
+                },
+                {
+                    "word": "suis,",
+                    "time": 534.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 535.5
+                },
+                {
+                    "word": "dons,",
+                    "time": 536
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 536.5
+                },
+                {
+                    "word": "défauts",
+                    "time": 537
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "Mes",
+                    "time": 539.5
+                },
+                {
+                    "word": "plus",
+                    "time": 540
+                },
+                {
+                    "word": "belles",
+                    "time": 540.5
+                }
+            ]
+        },
+        {
+            "line": 1,
+            "side": 0,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "chances,",
+                    "time": 541.5
+                }
+            ]
+        },
+        {
+            "line": 0,
+            "side": 1,
+            "font": "goldman",
+            "text": [
+                {
+                    "word": "mes",
+                    "time": 543
+                },
+                {
+                    "word": "différences",
+                    "time": 543.5
+                }
+            ]
+        }
+    ]
+}
