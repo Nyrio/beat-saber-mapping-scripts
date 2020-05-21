@@ -1,0 +1,338 @@
+{
+    "text": [
+        {
+            "type": "sidescroll",
+            "content": "#1",
+            "time": 1,
+            "height": 40
+        },
+        {
+            "type": "air",
+            "content": "Twenty-One",
+            "time": 5.3,
+            "angle": -10,
+            "height": 40,
+            "offset": -80
+        },
+        {
+            "type": "air",
+            "content": "Pilots",
+            "time": 5.3,
+            "angle": -10,
+            "height": 20,
+            "offset": -75
+        },
+        {
+            "type": "air",
+            "content": "Two Door",
+            "time": 5.3,
+            "angle": 10,
+            "height": 40,
+            "offset": 80
+        },
+        {
+            "type": "air",
+            "content": "Cinema Club",
+            "time": 5.3,
+            "angle": 10,
+            "height": 20,
+            "offset": 80
+        },
+        {
+            "type": "sidescroll",
+            "content": "#2",
+            "time": 8,
+            "height": 40
+        },
+        {
+            "type": "air",
+            "content": "Kodaline",
+            "time": 12.2,
+            "angle": -10,
+            "height": 40,
+            "offset": -60
+        },
+        {
+            "type": "air",
+            "content": "Coldplay",
+            "time": 12.2,
+            "angle": 10,
+            "height": 40,
+            "offset": 60
+        },
+        {
+            "type": "sidescroll",
+            "content": "#3",
+            "time": 15.5,
+            "height": 40
+        },
+        {
+            "type": "air",
+            "content": "Snow",
+            "time": 18.7,
+            "angle": -10,
+            "height": 40,
+            "offset": -60
+        },
+        {
+            "type": "air",
+            "content": "Patrol",
+            "time": 18.7,
+            "angle": -10,
+            "height": 20,
+            "offset": -60
+        },
+        {
+            "type": "air",
+            "content": "Keane",
+            "time": 18.7,
+            "angle": 10,
+            "height": 30,
+            "offset": 60
+        },
+        {
+            "type": "sidescroll",
+            "content": "#4",
+            "time": 21.5,
+            "height": 40
+        },
+        {
+            "type": "air",
+            "content": "Vampire",
+            "time": 25.7,
+            "angle": -10,
+            "height": 40,
+            "offset": -70
+        },
+        {
+            "type": "air",
+            "content": "Weekend",
+            "time": 25.7,
+            "angle": -10,
+            "height": 20,
+            "offset": -65
+        },
+        {
+            "type": "air",
+            "content": "Sufjan",
+            "time": 25.7,
+            "angle": 10,
+            "height": 40,
+            "offset": 70
+        },
+        {
+            "type": "air",
+            "content": "Stevens",
+            "time": 25.7,
+            "angle": 10,
+            "height": 20,
+            "offset": 70
+        },
+        {
+            "type": "sidescroll",
+            "content": "#5",
+            "time": 29,
+            "height": 40
+        },
+        {
+            "type": "air",
+            "content": "The Moody",
+            "time": 33.7,
+            "angle": -10,
+            "height": 40,
+            "offset": -70
+        },
+        {
+            "type": "air",
+            "content": "Blues",
+            "time": 33.7,
+            "angle": -10,
+            "height": 20,
+            "offset": -70
+        },
+        {
+            "type": "air",
+            "content": "Roger",
+            "time": 33.7,
+            "angle": 10,
+            "height": 40,
+            "offset": 70
+        },
+        {
+            "type": "air",
+            "content": "Waters",
+            "time": 33.7,
+            "angle": 10,
+            "height": 20,
+            "offset": 70
+        },
+        {
+            "type": "sidescroll",
+            "content": "#6",
+            "time": 37,
+            "height": 40
+        },
+        {
+            "type": "air",
+            "content": "Amber",
+            "time": 42.7,
+            "angle": -10,
+            "height": 40,
+            "offset": -65
+        },
+        {
+            "type": "air",
+            "content": "Run",
+            "time": 42.7,
+            "angle": -10,
+            "height": 20,
+            "offset": -60
+        },
+        {
+            "type": "air",
+            "content": "Hollow",
+            "time": 42.7,
+            "angle": 10,
+            "height": 40,
+            "offset": 60
+        },
+        {
+            "type": "air",
+            "content": "Coves",
+            "time": 42.7,
+            "angle": 10,
+            "height": 20,
+            "offset": 65
+        },
+        {
+            "type": "sidescroll",
+            "content": "#7",
+            "time": 46,
+            "height": 40
+        },
+        {
+            "type": "air",
+            "content": "Supertramp",
+            "time": 52.7,
+            "angle": -10,
+            "height": 30,
+            "offset": -70
+        },
+        {
+            "type": "air",
+            "content": "TOTO",
+            "time": 52.7,
+            "angle": 10,
+            "height": 30,
+            "offset": 60
+        },
+        {
+            "type": "sidescroll",
+            "content": "#8",
+            "time": 56,
+            "height": 40
+        },
+        {
+            "type": "air",
+            "content": "Birdy",
+            "time": 63.7,
+            "angle": -10,
+            "height": 30,
+            "offset": -70
+        },
+        {
+            "type": "air",
+            "content": "AURORA",
+            "time": 63.7,
+            "angle": 10,
+            "height": 30,
+            "offset": 60
+        },
+        {
+            "type": "sidescroll",
+            "content": "#9",
+            "time": 67,
+            "height": 40
+        },
+        {
+            "type": "air",
+            "content": "Starship",
+            "time": 72.7,
+            "angle": -10,
+            "height": 30,
+            "offset": -70
+        },
+        {
+            "type": "air",
+            "content": "Chicago",
+            "time": 72.7,
+            "angle": 10,
+            "height": 30,
+            "offset": 60
+        },
+        {
+            "type": "sidescroll",
+            "content": "#10",
+            "time": 76,
+            "height": 40
+        },
+        {
+            "type": "air",
+            "content": "Queen",
+            "time": 81.7,
+            "angle": -10,
+            "height": 30,
+            "offset": -60
+        },
+        {
+            "type": "air",
+            "content": "Alphaville",
+            "time": 81.7,
+            "angle": 10,
+            "height": 30,
+            "offset": 60
+        }
+    ],
+    "choices": [
+        {
+            "time": 5.5,
+            "side": "left"
+        },
+        {
+            "time": 12.5,
+            "side": "right"
+        },
+        {
+            "time": 19,
+            "side": "right"
+        },
+        {
+            "time": 26,
+            "side": "left"
+        },
+        {
+            "time": 34,
+            "side": "left"
+        },
+        {
+            "time": 43,
+            "side": "left"
+        },
+        {
+            "time": 53,
+            "side": "right"
+        },
+        {
+            "time": 64,
+            "side": "right"
+        },
+        {
+            "time": 73,
+            "side": "left"
+        },
+        {
+            "time": 82,
+            "side": "right"
+        }
+    ]
+}
