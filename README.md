@@ -1,6 +1,8 @@
 # Beat Saber Mapping Scripts
 
-This is not a generic tool, just individual scripts that I used to generate my maps.
+## Intro
+
+This is not a generic tool, just individual scripts that I made to generate my maps. You can use these scripts without any restriction (even for commissions), but all the assets (3D models, SVG drawings, etc) strictly belong to me and you cannot use them without my explicit permission. When you use my scripts or scripts derivated from them, I'd really appreciate if you mention me in the credits (either in the description on BeatSaver or in the map details that can be seen in-game).
 
 Videos of the maps:
 
@@ -9,3 +11,35 @@ Videos of the maps:
  - Music Quiz: https://youtu.be/HKX3iOh1WPI
  - Hide & Seek: https://youtu.be/VWgx2RAqE6o
  - Star Wars: https://youtu.be/yerrcuhG8tI
+
+## FAQ
+
+I get a lot of questions about my maps and the techniques and effects that I have developed. I will try to answer the most frequently asked questions here. If you have more questions, please use the channel *extension talk* of the *Beat Saber Mapping* Discord server.
+
+**I want to make a wall map, where do I start?**
+Reading the [documentation of Noodle Extensions](https://github.com/Aeroluna/NoodleExtensions) is the main requirement. You need a good understanding of the mod. Then you can either make your own scripts or use the existing ones. [BeatWalls](https://github.com/spookyGh0st/beatwalls) is a popular tool. My scripts are more powerful but require more skills.
+
+**What skills are required to use these scripts?**
+You need at least a basic understanding of Python, because you will have to adjust the code to your needs.
+
+**Have other mappers used these scripts?**
+Yes, many cool maps have been made with scripts derivated from mine. A few examples:
+- [Midnight Lady](https://youtu.be/pE_s9bvntA0) by Reaxt
+- [Gloom](https://youtu.be/b0K8UBGt3zs) by Mine Thing
+- [Rain](https://youtu.be/a4h04wDuB64) by Caeden117
+
+**How do I use Blender-to-walls?**
+Check the Wait script and the 3D files and try to understand how it works. Here are a few tips:
+- Blender models need to be made exclusively out of standard cubes, and modified only in object mode without ever applying the modifications in a way that will modify the vertices. I advise to start with an empty scene, spawn cubes (with the default scale) and only use rotate / move / rescale / duplicate.
+- You need to adjust the `SCALE` parameter in the code based on your map's BPM and NJS
+- Blender and NE have different coordinate systems, so the math in my code is a mess, sorry for that.
+- In terms of number of walls, you can go as far as hundreds on screen at the same time but be reasonable. Also don't spawn too many simultaneously, you'd have a lag spike
+
+**How do I use text-to-walls?**
+There's text in multiple maps that I've made. You can create text with Blender-to-walls and have a lot more control but it's also more effort. Reaxt has done that in a few maps. Or you could use either the *Je te donne*, *Music Quiz* or *Hide & Seek* script based on which effect you're trying to achieve. They all work a bit differently but the basic idea is to provide a font and some kind of representation of the words and their timings. The font is parsed from a pixel art png file, with a greedy algorithm that takes the longest line of pixels and makes a wall with it, then does the same for the remaining pixels etc. You can change the height, and the characters have a variable width (you just need to separate them with an empty column with a blue pixel at the top)
+
+**How do I use svg-to-walls?**
+The *Hide & Seek* script does that. The main thing to know is that lines are rendered with one wall whereas Bezier curves are approximated with many walls, so use straight lines as much as possible. And export the file with the SVG Tiny specification. If some shapes don't display, the SVG files have primitives that my script doesn't understand.
+
+**How do I add color?**
+My public Blender script doesn't support that yet, check [Caeden's derivative script for Rain](https://github.com/Caeden117/Rain)
