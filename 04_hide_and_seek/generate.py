@@ -7,7 +7,9 @@ import xml.etree.ElementTree as ET
 from scipy.spatial.transform import Rotation
 from svg.path import parse_path, Line, CubicBezier
 
-# TODO: environment removal with Chroma
+# Note for users: I have exported the svg files from Illustrator with the
+# "SVG Tiny" setting. Using functions not recognized by my very basic parser
+# might result in errors or weird-looking drawings
 
 FILES = ["EasyStandard.dat", "NormalStandard.dat", "HardStandard.dat"]
 SCALE = 10  # Scaling factor for the x and y axes
