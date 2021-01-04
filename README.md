@@ -11,10 +11,11 @@ Videos of the maps:
  - Music Quiz: https://youtu.be/HKX3iOh1WPI
  - Hide & Seek: https://youtu.be/VWgx2RAqE6o
  - Star Wars: https://youtu.be/yerrcuhG8tI
+ - Dondante: https://youtu.be/O2ez-ucOBHY
 
 ## FAQ
 
-I get a lot of questions about my maps and the techniques and effects that I have developed. I will try to answer the most frequently asked questions here. If you have more questions, please use the channel *extension talk* of the *Beat Saber Mapping* Discord server.
+I get a lot of questions about my maps and the techniques and effects that I have developed. I will try to answer the most frequently asked questions here. If you have more questions, please use the channel *extension talk* of the *Beat Saber Mapping* Discord server. I don't have time to provide systematic support but I can help a bit if you really make an effort to understand how this stuff works.
 
 **I want to make a wall map, where do I start?**
 Reading the [documentation of Noodle Extensions](https://github.com/Aeroluna/NoodleExtensions) is the main requirement. You need a good understanding of the mod. Then you can either make your own scripts or use the existing ones. [BeatWalls](https://github.com/spookyGh0st/beatwalls) is a popular tool. My scripts are more powerful but require more skills.
@@ -29,7 +30,8 @@ Yes, many cool maps have been made with scripts derivated from mine. A few examp
 - [Rain](https://youtu.be/a4h04wDuB64) by Caeden117
 
 **How do I use Blender-to-walls?**
-Check the Wait script and the 3D files and try to understand how it works. Here are a few tips:
+There are multiple scripts for that. The first one, for *Wait*, can create environments that scroll with the map. The second one, for *Dondante*, can do static animations using Noodle Extensions 1.2+.
+Here are some basic instructions for the *Wait* script, but you'll also have to look at the code and the 3D files to understand how it works.
 - Blender models need to be made exclusively out of standard cubes, and modified only in object mode without ever applying the modifications in a way that will modify the vertices. I advise to start with an empty scene, spawn cubes (with the default scale) and only use rotate / move / rescale / duplicate.
 - You need to adjust the `SCALE` parameter in the code based on your map's BPM and NJS
 - Blender and NE have different coordinate systems, so the math in my code is a mess, sorry for that.
@@ -40,6 +42,3 @@ There's text in multiple maps that I've made. You can create text with Blender-t
 
 **How do I use svg-to-walls?**
 The *Hide & Seek* script does that. The main thing to know is that lines are rendered with one wall whereas Bezier curves are approximated with many walls, so use straight lines as much as possible. And export the file with the SVG Tiny specification. If some shapes don't display, the SVG files have primitives that my script doesn't understand.
-
-**How do I add color?**
-My public Blender script doesn't support that yet, check [Caeden's derivative script for Rain](https://github.com/Caeden117/Rain)
