@@ -12,6 +12,7 @@ Videos of the maps:
  - Hide & Seek: https://youtu.be/VWgx2RAqE6o
  - Star Wars: https://youtu.be/yerrcuhG8tI
  - Dondante: https://youtu.be/O2ez-ucOBHY
+ - Ghost Choir: https://youtu.be/XC7RY9C_EHs
 
 ## FAQ
 
@@ -42,3 +43,4 @@ There's text in multiple maps that I've made. You can create text with Blender-t
 
 **How do I use svg-to-walls?**
 The *Hide & Seek* script does that. The main thing to know is that lines are rendered with one wall whereas Bezier curves are approximated with many walls, so use straight lines as much as possible. And export the file with the SVG Tiny specification. If some shapes don't display, the SVG files have primitives that my script doesn't understand.
+The *Ghost Choir* script is based on the same ideas but uses Noodle Extensions 1.2+ animations to animate the svg files (frame by frame). If you want to reuse the same walls for multiple frames like in this script, to reduce lag, you need to modify the same file and make sure you're not adding new points.
