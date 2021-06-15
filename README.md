@@ -19,16 +19,11 @@ Videos of the maps:
 I get a lot of questions about my maps and the techniques and effects that I have developed. I will try to answer the most frequently asked questions here. If you have more questions, please use the channel *extension talk* of the *Beat Saber Mapping* Discord server. I don't have time to provide systematic support but I can help a bit if you really make an effort to understand how this stuff works.
 
 **I want to make a wall map, where do I start?**
-Reading the [documentation of Noodle Extensions](https://github.com/Aeroluna/NoodleExtensions) is the main requirement. You need a good understanding of the mod. Then you can either make your own scripts or use the existing ones. [BeatWalls](https://github.com/spookyGh0st/beatwalls) is a popular tool. My scripts are more powerful but require more skills.
-
-**What skills are required to use these scripts?**
-You need at least a basic understanding of Python, because you will have to adjust the code to your needs.
+Reading the [documentation of Noodle Extensions](https://github.com/Aeroluna/NoodleExtensions) is the main requirement. You need a good understanding of the mod. Then you can either make your own scripts or use the existing ones. [BeatWalls](https://github.com/spookyGh0st/beatwalls) and [ScuffedWalls](https://github.com/thelightdesigner/ScuffedWalls) are two fairly accessible options. My scripts are for people who have some programming knowledge and are interested in particular effects or systems i have implemented for my maps.
 
 **Have other mappers used these scripts?**
-Yes, many cool maps have been made with scripts derivated from mine. A few examples:
-- [Midnight Lady](https://youtu.be/pE_s9bvntA0) by Reaxt
-- [Gloom](https://youtu.be/b0K8UBGt3zs) by Mine Thing
-- [Rain](https://youtu.be/a4h04wDuB64) by Caeden117
+Yes, some cool maps have been made with scripts derivated from mine, such as [Midnight Lady](https://youtu.be/pE_s9bvntA0) by Reaxt, [Gloom](https://youtu.be/b0K8UBGt3zs) by Mine Thing, [Rain](https://youtu.be/a4h04wDuB64) by Caeden117, etc.
+Other tools like ScuffedWalls are reimplementing some of the techniques I developed (model to walls, text to walls, etc).
 
 **How do I use Blender-to-walls?**
 There are multiple scripts for that. The first one, for *Wait*, can create environments that scroll with the map. The second one, for *Dondante*, can do static animations using Noodle Extensions 1.2+.
