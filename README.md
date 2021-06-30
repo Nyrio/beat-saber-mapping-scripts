@@ -13,6 +13,7 @@ Videos of the maps:
  - Star Wars: https://youtu.be/yerrcuhG8tI
  - Dondante: https://youtu.be/O2ez-ucOBHY
  - Ghost Choir: https://youtu.be/XC7RY9C_EHs
+ - Spider Dance: https://youtu.be/fy8KmUor6fI
 
 ## FAQ
 
