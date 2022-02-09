@@ -1,0 +1,76 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Wait",
+  "_songSubName": "2021 remap",
+  "_songAuthorName": "M83",
+  "_levelAuthorName": "nyri0",
+  "_beatsPerMinute": 148,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 29.85,
+  "_previewDuration": 13,
+  "_songFilename": "song.ogg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper",
+        "_name": "nyri0",
+        "_iconPath": "nyri0.png"
+      },
+      {
+        "_role": "Modder",
+        "_name": "Aeroluna",
+        "_iconPath": "aero.png"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "ExpertWIP.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Expert WIP",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_colorLeft": {
+              "r": 0.5,
+              "g": 0.5,
+              "b": 0.5
+            },
+            "_colorRight": {
+              "r": 0.3,
+              "g": 0.5,
+              "b": 0.7
+            },
+            "_difficultyLabel": "No Time",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_requirements": [
+              "Noodle Extensions",
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
